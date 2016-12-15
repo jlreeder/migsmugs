@@ -9,3 +9,12 @@ This lists the contents of the img file in the proper format for the list I keep
 #+BEGIN_SRC bash
 stat -f "| %N | %Sm |" -t "[%Y-%m-%d]" * | pbcopy
 #+END_SRC
+* Colors
+- Banner yellow: #FFDE00
+* Tumblr size limit
+- For static images, make sure the file is no larger than 10MB and is either a JPEG or a PNG.
+* Best Practices
+- Image format: PNG
+  - JPG doesn't always come out looking right
+- Image dimensions: ~500 x 500
+  - Any larger and the image is hard to see (it is not resized by Tumblr)
