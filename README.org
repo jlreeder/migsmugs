@@ -2,3 +2,10 @@
 #+SUBTITLE: Data for the blog Migs Mugs
 
 This is Jon Migliori's fan blog.
+
+* Useful Commands
+** List contents of img
+This lists the contents of the img file in the proper format for the list I keep:
+#+BEGIN_SRC bash
+stat -f "| %N | %Sm |" -t "[%Y-%m-%d]" * | pbcopy
+#+END_SRC
