@@ -1,0 +1,4 @@
+#+TITLE: Migs Mugs
+#+SUBTITLE: Data for the blog Migs Mugs
+
+This is Jon Migliori's fan blog.
