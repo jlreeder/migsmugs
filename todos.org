@@ -1,26 +1,2 @@
 #+TITLE: Todos
 #+SUBTITLE: Todos for Migs Mugs
-* DONE Prepare profile pic
-  CLOSED: [2016-12-14 Wed 19:58]
-* DONE Prepare banner pic
-  CLOSED: [2016-12-14 Wed 20:30]
-* DONE Prepare Twitter Account
-  CLOSED: [2016-12-14 Wed 20:30]
-* DONE Prepare Instagram Account
-  CLOSED: [2016-12-14 Wed 20:30]
-* DONE Prepare FB Account
-  CLOSED: [2016-12-14 Wed 20:30]
-* DONE Integrate Tumblr with other services
-  CLOSED: [2016-12-14 Wed 20:41]
-** DONE Twitter
-   CLOSED: [2016-12-14 Wed 20:30]
-** CNCL Instagram
-- Not possible. Instagram doesn't allow posting from outside sources.
-** DONE FB
-   CLOSED: [2016-12-14 Wed 20:30]
-* TODO Select photos for first posting
-* TODO Post photos to accounts
-* DONE Enable analytics
-  CLOSED: [2016-12-14 Wed 21:38]
-* TODO Write text
-* TODO Announce
