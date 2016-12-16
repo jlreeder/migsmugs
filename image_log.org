@@ -35,7 +35,7 @@
 | parallel-lines.tif                                                           | [2016-01-06] |                  |
 | empire.tif                                                                   | [2015-12-30] |                  |
 | bob.tif                                                                      | [2015-12-16] |                  |
-| tinybook.tif                                                                 | [2015-12-02] |                  |
+| tinybook.tif                                                                 | [2015-12-02] | [2016-12-15 Thu] |
 | hundo.tif                                                                    | [2015-11-25] |                  |
 | trainspotting.tif                                                            | [2015-11-18] |                  |
 | bread.tif                                                                    | [2015-11-11] |                  |
