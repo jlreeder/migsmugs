@@ -1,7 +1,7 @@
 #+TITLE: Migs Mugs
 #+SUBTITLE: Data for the blog Migs Mugs
 
-This is Jon Migliori's fan blog.
+This repository contains the records kept for Migs Mugs, the official fan blog of Jonathan Migliori: [[http://migsmugs.tumblr.com/][http://migsmugs.tumblr.com/]].
 
 * Useful Commands
 ** List contents of img
