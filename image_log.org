@@ -101,7 +101,7 @@
 | rijonna.jpg                                                                  | [2014-02-19] |                  |
 | Kwan.jpg                                                                     | [2014-02-05] |                  |
 | Snow.jpg                                                                     | [2014-02-04] |                  |
-| NatGeo.jpg                                                                   | [2014-01-29] |                  |
+| NatGeo.jpg                                                                   | [2014-01-29] | [2016-12-18 Sun] |
 | muhammad_ali_versus_sonny_liston12-e1351986771524 copy.jpg                   | [2014-01-22] |                  |
 | annun_angelico_grt copy.jpg                                                  | [2014-01-15] |                  |
 | article-1086892-024FEE6A000005DC-242_468x464 copy.jpg                        | [2014-01-08] |                  |
