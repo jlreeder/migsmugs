@@ -55,7 +55,7 @@
 | mao.tif                                                                      | [2015-06-03] |                  |
 | wuthering.tif                                                                | [2015-05-06] |                  |
 | hippo.tif                                                                    | [2015-04-22] |                  |
-| JAMESBROWN.tif                                                               | [2015-04-15] |                  |
+| JAMESBROWN.tif                                                               | [2015-04-15] | [2016-12-21 Wed] |
 | elvis-nixon.tif                                                              | [2015-04-01] |                  |
 | jobs.tif                                                                     | [2015-03-25] |                  |
 | klimt.tif                                                                    | [2015-03-11] |                  |
