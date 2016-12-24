@@ -1,2 +1,3 @@
 #+TITLE: Todos
 #+SUBTITLE: Todos for Migs Mugs
+* TODO Start posting directly to FB and Twitter instead of links
