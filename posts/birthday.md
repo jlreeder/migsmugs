@@ -1,0 +1,1 @@
+We at Migs Mugs are overjoyed to mark the occasion of Jonathan's birthday. His art and audacity continue to inspire us, and we wholeheartedly look forward to another year full of mugs. Happy birthday, Jonathan!
